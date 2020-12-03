@@ -1,0 +1,10 @@
+.book-cover img {
+    height: 290px;
+    width: 100%;
+    border-top-left-radius:8px;
+    border-top-right-radius:8px;
+}
+.book , .book-cover {
+    border-top-left-radius:8px;
+    border-top-right-radius:8px;
+}
